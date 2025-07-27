@@ -1,8 +1,6 @@
 # To-Do-List-App
 A simple command-line To-Do List App built using Python for my CS50P final project. It lets users add, view, and delete tasks with all data stored in a text file. The app helps users stay organized, remember daily goals, and reduce procrastination. Includes error handling and testing. 
 
-# 📽️ Video Demo : https://youtu.be/s9SbeVnubqQ?si=UduLyIz1HiGT7WkC
-
 # 👩‍💻 About the Project
 
 Hello I'm Ayushi Sharma and this is my final project for CS50P. I've made a very simple yet useful "To-Do List App" which I've created by using Python.
